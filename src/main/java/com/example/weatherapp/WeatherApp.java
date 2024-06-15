@@ -77,7 +77,7 @@ class CurrentWeather extends WeatherData {
 }
 
 class ApiService {
-    private final String apiKey = "b0cab9b492804425a9a72753241506";
+    private final String apiKey = "API_KEY";
     private final String apiUrl = "http://api.weatherapi.com/v1/current.json";
 
     public String getWeatherData(String location) throws IOException {

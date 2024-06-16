@@ -12,14 +12,14 @@ Przed rozpoczęciem pracy upewnij się, że masz:
 
 1. Sklonuj repozytorium lub pobierz pliki projektu:
 
-`git clone https://github.com/your-repo/weatherapp.git`
+`git clone https://github.com/olafbado/weatherapp.git`
 `cd weatherapp`
 
 2. Dodaj swój klucz API:
 
-Otwórz plik WeatherApp.java i zamień YOUR_API_KEY na swój rzeczywisty klucz API w klasie ApiService.
+Otwórz plik WeatherApp.java i zamień API_KEY na swój rzeczywisty klucz API w klasie ApiService.
 
-3. Zbuduj projekt przy użyciu Maven:
+1. Zbuduj projekt przy użyciu Maven:
 
 `mvn compile`
 
